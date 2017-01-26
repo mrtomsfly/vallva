@@ -5,8 +5,10 @@ using namespace std;
 int main()
 {
 	cout << "Hello World!" << endl;
-	cout << "Sarah har varit inne och pillat på koden" << endl;
-	//ledsen joe, tror jag ändrade för mycket
+
+	//"Sarah har varit inne och pillat på koden"
+	cout << "Detta är joe, sluta använd min kod" << endl;
+
 
 	system("pause");
 	return 0;
