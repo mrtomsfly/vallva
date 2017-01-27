@@ -1,0 +1,25 @@
+dir = listar filer i mappen vi är i
+cd = (change directory) flyttar manuellt vart vi vill
+cd.. - backar ett steg ur en mapp
+
+git clone + url-adressen för förrådet = kopierar förråd på hemsidan till vald mapp
+
+git status = kollar status för förrådet 
+
+git add + filnamn = lägger till filen till förrådet
+git add -A = adderar alla filer vi skapat eller ändrat
+
+git commit -m "kommentar för vad man gjort" man godkänner ändringarna
+git commit -a = text fil kommer upp och förklarar
+
+git push = sista steget för att ladda upp filen på hemsidan
+git pull = alla dem senaste filerna som pushats till förrådet, lägger in dem i nuvarande mapp från förråd
+
+git - listar alla git kommandon
+
+viktigaste!
+git add
+git commit
+git push
+
+https://www.youtube.com/watch?v=E8TXME3bzNs
